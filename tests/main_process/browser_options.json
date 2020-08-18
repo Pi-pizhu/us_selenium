@@ -1,0 +1,44 @@
+{
+  "local_options": {
+    "browser_type": "Chrome",
+    "options": {
+      "add_argument": [
+        "--allow-file-access-from-files",
+        "--allow-insecure-localhost",
+        "--allow-running-insecure-content",
+        "--log-level=3",
+        "--test-type",
+        "--homepage=about:blank",
+        "--no-proxy-server",
+        "--ignore-certificate-errors",
+        "--dom-automation",
+        "--disable-save-password-bubble",
+        "--disable-single-click-autofill",
+        "--disable-sync",
+        "--disable-translate",
+        "--disable-web-security",
+        "--dns-prefetch-disable",
+        "--disable-gpu",
+        "--no-sandbox",
+        "--disable-infobars",
+        "--lang=en"
+      ]
+    }
+  },
+  "remote_options": {
+    "command_executor": "http://127.0.0.1:9000/wd/hub",
+    "desired_capabilities": {
+      "browserName": "chrome",
+      "version": "",
+      "platform": "ANY",
+      "javascriptEnabled": "True"
+    },
+    "options": {
+      "add_argument": [
+        "--no-sandbox",
+        "--disable-infobars",
+        "--lang=zh_CN.UTF-8"
+      ]
+    }
+  }
+}

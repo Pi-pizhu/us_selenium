@@ -1,0 +1,30 @@
+name: 云数据库测试环境-登录
+url: http://172.23.8.212:8085/login/
+teststep:
+  # 理论基础：一个元素一个步骤，一条业务用例：1~n条步骤；assert可以出现在每个步骤后
+  # 每个元素、步骤、用例，在同一page下，name唯一
+  # 需要支持直接操作driver方法、自定义方法、js脚本命令写入
+  # 步骤类型：点击、输入、滑动、提取内容、获取文本、上传文件、driver.get、放大、缩小、定位、frame切换、window切换
+  # 从ini文件中获取元素定位，组合定位+action形成步骤，一个步骤有多个定位
+  test_step:
+      steps_path: 测试步骤
+      action: 步骤动作
+      input: 输入内容
+
+  wirte username:
+      steps_path: login_page/username
+      action: send
+      input: 15878162606
+
+  wirte password:
+    steps_path: login_page/password
+    action: send
+    input: admin123
+
+  check boxTrigger:
+    steps_path: login_page/check_boxTrigger
+    action: click
+
+  login btn:
+    steps_path: login_page/login_btn
+    action: click

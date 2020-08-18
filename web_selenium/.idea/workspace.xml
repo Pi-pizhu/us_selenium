@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="12bcbb8c-3146-4185-8db0-1b9c05bfc95c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aOsfuFSRXDXiBGi6HVa5luIZ8A" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.cli">
+    <configuration name="base_page" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="web_selenium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/base_page.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="cli" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="web_selenium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cli.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="web_selenium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_case_demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="web_selenium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_case_demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <module name="web_selenium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="$USER_HOME$/.local/share/virtualenvs/web_selenium-Og7jyzIQ/bin/python" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_case_demo.py" type="tests" factoryName="py.test">
+      <module name="web_selenium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="$USER_HOME$/.local/share/virtualenvs/web_selenium-Og7jyzIQ/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_case_demo.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.base_page" />
+      <item itemvalue="Python.cli" />
+      <item itemvalue="Python.demo" />
+      <item itemvalue="Python.test_case_demo" />
+      <item itemvalue="Python tests.pytest in test_case_demo.py" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.cli" />
+        <item itemvalue="Python.demo" />
+        <item itemvalue="Python.test_case_demo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="12bcbb8c-3146-4185-8db0-1b9c05bfc95c" name="Default Changelist" comment="" />
+      <created>1586618080991</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586618080991</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="989" y="238" key="#Inspections" timestamp="1586622398085">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="989" y="238" key="#Inspections/0.23.1792.1097@0.23.1792.1097" timestamp="1586622398085" />
+    <state x="653" y="230" width="1071" height="699" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589612873345">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="653" y="230" width="1071" height="699" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1792.1097@0.23.1792.1097" timestamp="1589612873345" />
+    <state x="976" y="293" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1589612108627">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="976" y="293" key="#com.intellij.ide.macro.MacrosDialog/0.23.1792.1097@0.23.1792.1097" timestamp="1589612108627" />
+    <state x="926" y="373" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1589612235189">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="926" y="373" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1792.1097@0.23.1792.1097" timestamp="1589612235189" />
+    <state x="943" y="351" key="EnvironmentVariablesDialog" timestamp="1589612100811">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="943" y="351" key="EnvironmentVariablesDialog/0.23.1792.1097@0.23.1792.1097" timestamp="1589612100811" />
+    <state width="1173" height="303" key="GridCell.Tab.0.bottom" timestamp="1589901522789">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1173" height="303" key="GridCell.Tab.0.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1589901522789" />
+    <state width="1173" height="303" key="GridCell.Tab.0.center" timestamp="1589901522788">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1173" height="303" key="GridCell.Tab.0.center/0.23.1792.1097@0.23.1792.1097" timestamp="1589901522788" />
+    <state width="1173" height="303" key="GridCell.Tab.0.left" timestamp="1589901522786">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1173" height="303" key="GridCell.Tab.0.left/0.23.1792.1097@0.23.1792.1097" timestamp="1589901522786" />
+    <state width="1173" height="303" key="GridCell.Tab.0.right" timestamp="1589901522789">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1173" height="303" key="GridCell.Tab.0.right/0.23.1792.1097@0.23.1792.1097" timestamp="1589901522789" />
+    <state width="1173" height="373" key="GridCell.Tab.1.bottom" timestamp="1589818191169">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1173" height="373" key="GridCell.Tab.1.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1589818191169" />
+    <state width="1173" height="373" key="GridCell.Tab.1.center" timestamp="1589818191169">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1173" height="373" key="GridCell.Tab.1.center/0.23.1792.1097@0.23.1792.1097" timestamp="1589818191169" />
+    <state width="1173" height="373" key="GridCell.Tab.1.left" timestamp="1589818191169">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1173" height="373" key="GridCell.Tab.1.left/0.23.1792.1097@0.23.1792.1097" timestamp="1589818191169" />
+    <state width="1173" height="373" key="GridCell.Tab.1.right" timestamp="1589818191169">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1173" height="373" key="GridCell.Tab.1.right/0.23.1792.1097@0.23.1792.1097" timestamp="1589818191169" />
+    <state x="642" y="227" key="SettingsEditor" timestamp="1593071471388">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="642" y="227" key="SettingsEditor/0.23.1792.1097@0.23.1792.1097" timestamp="1593071471388" />
+    <state x="1043" y="406" key="com.intellij.ide.util.TipDialog" timestamp="1589805290052">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="1043" y="406" key="com.intellij.ide.util.TipDialog/0.23.1792.1097@0.23.1792.1097" timestamp="1589805290052" />
+  </component>
+</project>

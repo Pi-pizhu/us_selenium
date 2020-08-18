@@ -1,0 +1,39 @@
+{
+  "local_options": {
+    "browser_type": "Chrome",
+    "port": 0,
+    "options": [
+      "--no-sandbox",
+      "--disable-infobars",
+      "--lang=zh_CN.UTF-8"
+    ],
+    "service_args": "None",
+    "desired_capabilities": {
+      "browserName": "chrome",
+      "version": "",
+      "platform": "ANY",
+      "javascriptEnabled": "True"
+    },
+    "service_log_path": "None",
+    "chrome_options": "None",
+    "keep_alive": "True"
+  },
+  "remote_options": {
+    "command_executor": "http://127.0.0.1:4444/wd/hub",
+    "desired_capabilities": {
+      "browserName": "chrome",
+      "version": "",
+      "platform": "ANY",
+      "javascriptEnabled": "True"
+    },
+    "browser_profile": "None",
+    "proxy": "None",
+    "keep_alive": "False",
+    "file_detector": "None",
+    "options": [
+      "--no-sandbox",
+      "--disable-infobars",
+      "--lang=zh_CN.UTF-8"
+    ]
+  }
+}

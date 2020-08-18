@@ -1,0 +1,12 @@
+{
+  "browser": "chrome",
+  "use_grid": false,
+  "address": null,
+  "user_data_dir": null,
+  "user_agent": null,
+  "proxy_string": null,
+  "proxy_user": null,
+  "proxy_pass": null,
+  "headless": false,
+  "swiftshader": false
+}
